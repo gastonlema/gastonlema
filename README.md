@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gastonlema
+- 👀 I’m interested in Computers and Arts.
+- 🌱 I’m currently learning FrontEnd and BackEnd Developing
+- 💞️ I’m looking to collaborate on IT Projects
+- 📫 How to reach me: gaston.e.lema@gmail.com
