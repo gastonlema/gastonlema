@@ -5,7 +5,7 @@
 - 👀 I’m interested in Computers and Arts.
 - 🌱 I’m currently learning FrontEnd and BackEnd developing.
 - 💞️ I’m looking to collaborate on IT Projects.
-- 📫 How to reach me: gaston.e.lema@gmail.com
+- 📫 More about me: https://linktr.ee/gaston.lema
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=gastonlema&count_private=true&include_all_commits=true&theme=radical)]
 ## Connect with me:
