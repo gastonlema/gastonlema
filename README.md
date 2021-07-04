@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @gastonlema
+### 👋 Hi, I’m Gastón E. Lema
 
 ## Short description
 - 👨‍💻 Tech at Globant
